@@ -16,7 +16,7 @@
 
 - 🎓 Computer Science Student
 - I'm BSCIT student
-- I Qlreadylearn mysql, basic c.
+- I all ready learn mysql, basic c.
 - 🌱 Currently learning Full Stack Development
 - 💡 Passionate about Web Development & Open Source
 - 🚀 Building modern and responsive applications
